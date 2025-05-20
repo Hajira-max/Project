@@ -1,4 +1,8 @@
-✅ FEATURE OF THE PROJECT :
+📚 URBAN PLANNING AND DESIGN PROJECT  VISION
+
+   The vision of urban planning and design is a forward-looking framework that guides the development of cities to be sustainable, livable, inclusive, and resilient, using strategic planning, innovative technologies, and efficient land use to improve the quality of life for all citizens and support future growth.
+   
+ ✏️FEATURE OF THE PROJECT :
 
   * Real-Time IoT Data Collection :
    ->Sensors for traffic, air quality, noise levels, and temperature.
@@ -19,7 +23,7 @@
    ->Layout suggestions for roads, utilities, and public services.
    ->Ensures sustainable and inclusive infrastructure design.
     
-✅ TECHNOLOGY USED :
+💡TECHNOLOGY USED :
 
 Language Used :
   * Python
@@ -40,11 +44,11 @@ Tools used :
   * CSV File Export :
          The urban_df.to_csv() function saves simulated data to a .csv file, useful for reports or further analysis.
     
-✅ Purpose of project :
+📌 Purpose of project :
 
    The code simulates and visualizes real-time environmental and traffic data for different zones in a city to support urban planning decisions.
    
-✅ Working Steps:
+✒️ Working Steps:
 
    ->Zone Setup:
         Five city zones are defined with latitude and longitude.
@@ -62,7 +66,7 @@ Tools used :
     -> Visualization:
         A line plot is created using Matplotlib to show and compare AQI, traffic, and noise for each zone.
         
- ✅ Data collection :    
+📂 Data collection :    
  
        The dataset is simulated/generated programmatically using the numpy library's random functions.
     
