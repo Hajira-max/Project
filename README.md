@@ -37,8 +37,10 @@ Tools used :
          Ideal environment for running this code due to display() and visualization support.
   * CSV File Export :
          The urban_df.to_csv() function saves simulated data to a .csv file, useful for reports or further analysis.
+    
 ✅ Purpose of project :
    The code simulates and visualizes real-time environmental and traffic data for different zones in a city to support urban planning decisions.
+   
 ✅ Working Steps:
    ->Zone Setup:
         Five city zones are defined with latitude and longitude.
@@ -55,7 +57,8 @@ Tools used :
         The data is saved to a file named final_urban_planning_data.csv.
     -> Visualization:
         A line plot is created using Matplotlib to show and compare AQI, traffic, and noise for each zone.
+        
  ✅ Data collection :    
-     The dataset is simulated/generated programmatically using the numpy library's random functions.
+       The dataset is simulated/generated programmatically using the numpy library's random functions.
     
 
