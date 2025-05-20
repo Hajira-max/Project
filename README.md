@@ -1,4 +1,5 @@
 ✅ FEATURE OF THE PROJECT :
+
   * Real-Time IoT Data Collection :
    ->Sensors for traffic, air quality, noise levels, and temperature.
    ->Continuous data monitoring for smart decision-making.
@@ -19,6 +20,7 @@
    ->Ensures sustainable and inclusive infrastructure design.
     
 ✅ TECHNOLOGY USED :
+
 Language Used :
   * Python
     ->The entire script is written in Python, which is widely used for data analysis, simulation, and visualization.
@@ -39,9 +41,11 @@ Tools used :
          The urban_df.to_csv() function saves simulated data to a .csv file, useful for reports or further analysis.
     
 ✅ Purpose of project :
+
    The code simulates and visualizes real-time environmental and traffic data for different zones in a city to support urban planning decisions.
    
 ✅ Working Steps:
+
    ->Zone Setup:
         Five city zones are defined with latitude and longitude.
    ->Data Simulation:
@@ -59,6 +63,7 @@ Tools used :
         A line plot is created using Matplotlib to show and compare AQI, traffic, and noise for each zone.
         
  ✅ Data collection :    
+ 
        The dataset is simulated/generated programmatically using the numpy library's random functions.
     
 
